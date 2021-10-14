@@ -1,0 +1,7 @@
+a.	VPC
+b.	Private subnet
+c.	Public subnet
+d.	Route tables (public, private)
+e.	Internet Gateway
+f.	2 Security Groups
+g.	Ingress rules for the SG groups
